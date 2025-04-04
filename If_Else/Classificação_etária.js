@@ -7,4 +7,6 @@ if (age >=0 && age <= 12){
     console.log('Adulto')
 } else if (age >= 60) {
     console.log('Idoso')
+} else {
+    console.log("Idade Inválida")
 }
