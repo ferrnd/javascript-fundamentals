@@ -12,4 +12,6 @@ switch (num) {
     case 4:
         console.log(144 / 231);
         break;
+    default:
+        console.log('Número Inválido')
 }
